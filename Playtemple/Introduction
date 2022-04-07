@@ -1,0 +1,2 @@
+Step 1- Pose detection
+As we are trying to control the character of the game by our body position(gestures or poses), our body pose must be well detected by our system.
